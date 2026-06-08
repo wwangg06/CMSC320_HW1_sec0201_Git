@@ -5,3 +5,7 @@ Answer: Git helps track changes in files over time and makes it easier to collab
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be really important in healthcare, where hospitals can make use of patient data to predict health risks and identify patterns in diseases.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from one branch into another (preserves original branch history) while Rebasing moves commits from one branch and replays them on top of another branch (cleaner and more linear)
