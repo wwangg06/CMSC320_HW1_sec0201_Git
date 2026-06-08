@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be really important in healthcare, where hospitals can make use of patient data to predict health risks and identify patterns in diseases
